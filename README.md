@@ -5,6 +5,7 @@ This is the ERC20 smart contract example the event https://www.facebook.com/even
 ### Please install `ganache` and `truffle` before you start this project.
 
 `npm install -g truffle`
+
 `npm install -g ganache-cli`
 
 ### Start ganache
